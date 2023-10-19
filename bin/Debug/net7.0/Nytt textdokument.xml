@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CAXMLDocumentation</name>
+    </assembly>
+    <members>
+        <member name="T:CAXMLDocumentation.Generator">
+            <summary>
+        The main <c>Generator</c> class.
+      </summary><remarks>
+        This class can Generate Employee Ids
+      </remarks><returns>
+        employeeId as a string
+      </returns>
+        </member>
+    </members>
+</doc>

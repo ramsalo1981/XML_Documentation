@@ -1,0 +1,15 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\bin\Debug\net7.0\CAXMLDocumentation.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\bin\Debug\net7.0\CAXMLDocumentation.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\bin\Debug\net7.0\CAXMLDocumentation.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\bin\Debug\net7.0\CAXMLDocumentation.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\bin\Debug\net7.0\CAXMLDocumentation.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\obj\Debug\net7.0\refint\CAXMLDocumentation.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\obj\Debug\net7.0\ref\CAXMLDocumentation.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAXMLDocumentation\bin\Debug\net7.0\Nytt textdokument.xml
